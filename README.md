@@ -1,4 +1,4 @@
-#👋 ¡Hola! Soy [Andres]
+# ¡Hola! Soy [Andres]
 
 Soy un estudiante de Matematicas y apacionado por [la ciencia de Datos] . Me encanta crear proyectos que [describir lo que te gusta crear].
 
