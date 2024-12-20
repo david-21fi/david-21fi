@@ -1,16 +1,22 @@
-## Hi there 👋
+#👋 ¡Hola! Soy [Andres]
 
-<!--
-**david-21fi/david-21fi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Matematicas y apacionado por [la ciencia de Datos] . Me encanta crear proyectos que [describir lo que te gusta crear].
 
-Here are some ideas to get you started:
+**Habilidades:**
+* Python
+* Pandas
+* numpy
+* sklean
+* tensorflow
+* Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyectos:**
+* **[Nombre del proyecto 1]:** [Descripción corta] - [Enlace al repositorio]
+* **[Nombre del proyecto 2]:** [Descripción corta] - [Enlace al repositorio]
+
+**Contacto:**
+* Correo electrónico: [tu_correo@ejemplo.com]
+* LinkedIn: [tu_perfil_de_linkedin]
+
+**Acerca de mí:**
+[Aquí puedes escribir un poco más sobre ti, tus intereses y lo que te motiva]
