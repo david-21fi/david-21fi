@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Andres Martinez</h1>
-<h3 align="center">Estudiante de Matemáticas con una gran pasión por la ciencia de datos e inteligencia artificial</h3>
-<h3 align="left">Proyectos:</h3>
+<h2 align="center">Estudiante de Matemáticas con una gran pasión por la ciencia de datos e inteligencia artificial</h2>
+<h2 align="left">Proyectos:</h2>
 - 🔭 Proyecto de vision por computadora [Clasificación de perros y gatos](https://github.com/david-21fi/Clasificaci-n_Cats_and_Dogs)
 
 
@@ -8,8 +8,15 @@
 
 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Lenguajes y herramientas:
+
+### Lenguajes
+
+* **Python** ([link to Python website](https://www.python.org))
+* **Bash** ([link to Bash website](https://www.gnu.org/software/bash/))
+
+### Software y herramientas:
+![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow&perline=9)
 
 <h3 align="left">contacto:</h3>
 <p align="left">
