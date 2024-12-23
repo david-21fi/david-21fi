@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Andres Martinez</h1>
-<h2 align="center">Soy Estudiante de Matemáticas con un gran interes en la ciencia de datos e inteligencia artificial, mi principal objetivo es estraer información procesable de los datos.</h2>
+<h3 align="center">Estudiante de Matemáticas apasionado por la ciencia de datos e inteligencia artificial. Experiencia en extracción de insights valiosos a partir de grandes conjuntos de datos, como lo demuestran mis proyectos. Busco aplicar mis conocimientos en proyectos desafiantes y colaborar con equipos multidisciplinarios.</h3>
 <h2 align="left">Proyectos:</h2>
 - 🔭 Proyecto de vision por computadora [Clasificación de perros y gatos](https://github.com/david-21fi/Clasificaci-n_Cats_and_Dogs)
 
