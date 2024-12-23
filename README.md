@@ -10,10 +10,11 @@
 
 ## Lenguajes y herramientas:
 
-### Lenguajes
+### Lenguajes:
+[![My Skills](https://skillicons.dev/icons?i=py,r,bash)](https://skillicons.dev)
 
-* **Python** ([link to Python website](https://www.python.org))
-* **Bash** ([link to Bash website](https://www.gnu.org/software/bash/))
+### Habilidades:
+[![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,vim,linux)](https://skillicons.dev)
 
 ### Software y herramientas:
 ![My Skills](https://skillicons.dev/icons?i=opencv,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow&perline=9)
