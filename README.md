@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, Soy Andres Martinez</h1>
 <h3 align="center">Estudiante de Matemáticas apasionado por la ciencia de datos e inteligencia artificial. Experiencia en extracción de insights valiosos a partir de grandes conjuntos de datos, como lo demuestran mis proyectos. Busco aplicar mis conocimientos en proyectos desafiantes y colaborar con equipos multidisciplinarios.</h3>
 <h2 align="left">Proyectos:</h2>
-- 🔭 Proyecto de vision por computadora [Clasificación de perros y gatos](https://github.com/david-21fi/Clasificaci-n_Cats_and_Dogs)
 
+### Proyectos de Visión por Computadora
 
-- 👯 Analisis Predictivo [Rendimiento Académico](https://www.kaggle.com/code/andresmartinez21/rendimiento-acad-mico)
+* ** Clasificación de perros y gatos:** Entrenamos un modelo de deep learning para distinguir entre imágenes de perros y gatos. [Enlace](https://github.com/david-21fi/Clasificaci-n_Cats_and_Dogs))
 
+### Análisis de Datos
+* ** Rendimiento Académico:** Desarrollamos un modelo para predecir el rendimiento académico de estudiantes basado en diversos factores. [Enlace](https://www.kaggle.com/code/andresmartinez21/rendimiento-acad-mico)
 
 
 ## Lenguajes y herramientas:
